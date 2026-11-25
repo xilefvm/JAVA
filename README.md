@@ -40,11 +40,11 @@ Colección de proyectos backend construidos con **Java** y **Spring Boot**. Cada
 | ⚙️ **Framework** | Spring Boot · Spring Web MVC · Spring Validation |
 | 🗃️ **Persistencia** | Spring Data JPA · Hibernate · Flyway |
 | 🔐 **Seguridad** | Spring Security · JWT |
-| 🗄️ **Bases de datos** | PostgreSQL · H2 (solo pruebas) |
+| 🗄️ **Bases de datos** | PostgreSQL · Oracle · H2 (solo pruebas) |
 | 📡 **API** | REST · OpenAPI / Swagger UI |
 | 🧪 **Testing** | JUnit 5 · Mockito · Testcontainers |
 | 🐳 **Infraestructura** | Docker · Docker Compose |
-| 🔧 **Build** | Maven |
+| 🔧 **Build** | Maven · Gradle |
 
 Cada proyecto declara sus versiones exactas en su `pom.xml`. Esta tabla es el stack de referencia del repositorio, no una lista de obligatorios.
 
